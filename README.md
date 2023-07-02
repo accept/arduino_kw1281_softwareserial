@@ -1,5 +1,5 @@
 # arduino_kw1281_softwareserial
-ArduinoUnoR3にて標準ライブラリのSoftwareSerialを使用したKW1281によるECUとの通信スケッチです。
+ArduinoUnoR3にて標準ライブラリのSoftwareSerialを使用したKW1281によるECUとの通信スケッチです。<br>
 コードは下記ALEXANDER GRAU様のコードほぼそのままですが、同梱の古いNewSoftwareSerialではなく、IDE標準のSoftwareSerialを使用して動くようにしてあります。
 http://grauonline.de/wordpress/?p=74
 
